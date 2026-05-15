@@ -20,8 +20,8 @@
 
 | 格式 | 下載連結 |
 | :--- | :--- |
-| **EPUB** (適合手機/閱讀器) | [點此下載]( Chan-Science-cs.epub) |
-| **PDF** (適合電腦/列印) | [點此下載](Chan-Science-cs.pdf) |
+| **EPUB** (適合手機/閱讀器) | [點此下載]( https://github.com/clayfu/Chan-books/raw/refs/heads/main/Chan-Science-cs.epub) |
+| **PDF** (適合電腦/列印) | [點此下載]() |
 
 ### 📱 掃碼下載 (EPUB)
 
