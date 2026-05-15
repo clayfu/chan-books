@@ -21,14 +21,10 @@
 | 格式 | 下載連結 |
 | :--- | :--- |
 | **EPUB** (適合手機/閱讀器) | [點此下載]( https://github.com/clayfu/Chan-books/raw/refs/heads/main/Chan-Science-cs.epub) |
-| **PDF** (適合電腦/列印) | [點此下載]() |
+| **PDF** (適合電腦/列印) | [點此下載](https://github.com/clayfu/Chan-books/raw/refs/heads/main/Chan-Science-cs.pdf) |
 
 ### 📱 掃碼下載 (EPUB)
-
-取得 EPUB 檔案的「永久直鏈」後，請前往「草料二維碼」網站 (`cli.im`) 將該網址生成為二維碼。下載二維碼圖片後，將其上傳至本倉庫，並將下方的圖片連結替換為您的圖片網址。
-
-![請在此處替換為您的二維碼圖片連結]()
-
+![請在此處替換為您的二維碼圖片連結](https://cli.im/text/other)
 
 ### 🙏 結語
 
