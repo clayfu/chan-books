@@ -24,8 +24,9 @@
 | **PDF** (適合電腦/列印) | [點此下載](https://github.com/clayfu/Chan-books/raw/refs/heads/main/Chan-Science-cs.pdf) |
 
 ### 📱 掃碼下載 (EPUB)
-![請在此處替換為您的二維碼圖片連結](https://cli.im/text/other)
-
+![請在此處替換為您的二維碼圖片連結](https://github.com/clayfu/Chan-books/blob/main/qr_Chan-Science-cs.pdf.png)
+### 📱 掃碼下載 (PDF)
+![請在此處替換為您的二維碼圖片連結](https://github.com/clayfu/Chan-books/blob/main/qr_Chan-Science-cs.pdf.png)
 ### 🙏 結語
 
 > 「我相信，書中所引用的經文及法語，應該可以讓西方了解真正上乘佛法與禪的原貌，並能喚醒全世界華人社會中的大智人，重拾這已近失傳的唐宋珍寶。」
