@@ -16,19 +16,16 @@
 ---
 ### 📥 下載 (Download)
 
-| 格式 | 下載連結 |
-| :--- | :--- |
 | **EPUB** (適合手機/閱讀器) | [點此下載]( https://github.com/clayfu/Chan-books/raw/refs/heads/main/Chan-Science-cs.epub) |
 | **PDF** (適合電腦/列印) | [點此下載](https://github.com/clayfu/Chan-books/raw/refs/heads/main/Chan-Science-cs.pdf) |
 
-### 📱 掃碼下載 (EPUB)
+### 📱 掃碼下載 
 ![禅书簡体epub下载二维码](https://github.com/clayfu/Chan-books/blob/main/qr_Chan-Science-cs.epub.png)
-### 📱 掃碼下載 (PDF)
 ![禅书簡体pdf下载二维码](https://github.com/clayfu/Chan-books/blob/main/qr_Chan-Science-cs.pdf.png)
 ### 🙏 结语
 
 > 「我相信，书中所引用的经文及法语，应该可以让西方了解真正上乘佛法与禅的原貌，并能唤醒全世界华人社会中的大智人，重拾这已近失传的唐宋珍宝。」
-  「不参禅兮不念佛，何必好肉剜疮疣；知是般事且须休，非心非佛非空有。」
+   法禅师父:「不参禅兮不念佛，何必好肉剜疮疣；知是般事且须休，非心非佛非空有。」
 
 **願見者歡喜，聞者得度。阿彌陀佛。**
 ---
