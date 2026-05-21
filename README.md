@@ -53,11 +53,6 @@
 
 ---
 
-*最後更新：2026年5月*
-```
-
----
-
 ## 交流讨论
 
 欢迎您访问本仓库的 **[Discussions](https://github.com/clayfu/Chan-books/discussions)** 板块，留言、交流或分享转传本网址—(https://github.com/clayfu/Chan-books)。
