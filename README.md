@@ -55,7 +55,7 @@
 
 ## 交流讨论
 
-欢迎您访问本仓库的 **[Discussions](https://github.com/clayfu/Chan-books/discussions)** 板块，欢迎留言、交流或分享转传本网址—(https://github.com/clayfu/Chan-books)。
+欢迎您访问本仓库的 **[Discussions](https://github.com/clayfu/Chan-books/discussions)** 板块，欢迎留言、交流或分享转传本「禅屋」网址—(https://github.com/clayfu/Chan-books)。
 
 ---
 
