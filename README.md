@@ -44,9 +44,7 @@
 
 ## 祖师法宝以及…
 
-``markdown
-- **《六祖大师法宝坛经》**（大正新脩大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB]( https://github.com/clayfu/Chan-books/blob/main/%E5%85%AD%E7%A5%96%E5%A4%A7%E5%B8%88%E6%B3%95%E5%AE%9D%E5%9D%9B%E7%BB%8F.epub)
-```
+- **《六祖大师法宝坛经》**（大正新脩大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB](https://raw.githubusercontent.com/clayfu/Chan-books/refs/heads/main/%E5%85%AD%E7%A5%96%E5%A4%A7%E5%B8%88%E6%B3%95%E5%AE%9D%E5%9D%9B%E7%BB%8F.epub)
                                             
 - 《信心铭》（CBETA 大正新脩大藏經第48冊 No. 2010）
 - 《永嘉證道歌》（CBETA 大正新脩大藏經第48冊 No. 2014）
