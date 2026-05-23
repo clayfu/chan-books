@@ -17,7 +17,7 @@
 
 ### 《禅  不可思议的形而上学的心灵科学 —— 一生成佛之道》
 
-本书所要传达给读者的最重要讯息是法禅师父所说:「见性成佛是学佛最基本，最重要、也是最终的要求。」「参禅只要有个想见性的念就够了。」「吾人修行之目的，无非是想了脱生死。」「人出生就注定要死亡，人的一生有什么意义呢？不应只是混口饭吃而已，应该有更高的企求才对。...更高的企求就是去解决生死问题。」以及月溪法师所说：「最重要者仍在自证。」所以这是一本写给人世间少数有心想要探究宇宙生命存在真相、真正不喜欢死亡的有缘人的禅书。
+本书所要传达给读者的最重要讯息是法禅师父所说:「见性成佛是学佛最基本，最重要、也是最终的要求。」「参禅只要有个想见性的念就够了。」「吾人修行之目的，无非是想了脱生死。」「人出生就注定要死亡，人的一生有什么意义呢？不应只是混口饭吃而已，应该有更高的企求才对。...更高的企求就是去解决生死问题。」以及月溪法师所说：「最重要者仍在自证。」所以这其实是一本写给人世间少数有心想要探究宇宙生命存在真相、真正不喜欢死亡的有缘人的禅书。
 
 本书为 **免费结缘电子书**，采 CC 授权（Creative Commons），欢迎下载、翻印、流通，功德无量。
 
@@ -44,14 +44,12 @@
 
 ## 祖师法宝以及…
 
-- **《六祖大师法宝坛经》**（大正新脩大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB](https://raw.githubusercontent.com/clayfu/Chan-books/refs/heads/main/%E5%85%AD%E7%A5%96%E5%A4%A7%E5%B8%88%E6%B3%95%E5%AE%9D%E5%9D%9B%E7%BB%8F.epub)
-                                            
-- 《信心铭》（CBETA 大正新脩大藏經第48冊 No. 2010）
-- 《永嘉證道歌》（CBETA 大正新脩大藏經第48冊 No. 2014）
-- 《黃檗山斷際禪師傳心法要》（CBETA 大正新脩大藏經第48冊 No. 2012A）
-- 月溪法师：《大乘绝对论》(  )
-- 法禅法师：《黄叶集》( )
-
+- **《六祖大师法宝坛经》**（大正新脩大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Platform-Sutra-of-the-Sixth-Patriarch.epub)
+                                         
+- **《信心铭》**（CBETA 大正新脩大藏經第48冊 No. 2010）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Faith-Inscription.epub)
+- **《永嘉證道歌》**（CBETA 大正新脩大藏經第48冊 No. 2014）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/Yongjia's-Song-of-Realizing-the-Dao%20.epub)
+- **《黃檗山斷際禪師傳心法要》**（CBETA 大正新脩大藏經第48冊 No. 2012A）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The%20Mind-Transmission-Dharmas-Essential-of-Chan-Master-Duanji-of-Huangbo-Mountain.epub)
+- 月溪法师：《月溪法师讲大乘绝对论》(  )
 ---
 
 ## 交流讨论
