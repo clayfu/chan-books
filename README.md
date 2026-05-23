@@ -49,7 +49,7 @@
 - **《信心铭》**（CBETA 大正新脩大藏經第48冊 No. 2010）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Faith-Inscription.epub)
 - **《永嘉證道歌》**（CBETA 大正新脩大藏經第48冊 No. 2014）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/Yongjia's-Song-of-Realizing-the-Dao%20.epub)
 - **《黃檗山斷際禪師傳心法要》**（CBETA 大正新脩大藏經第48冊 No. 2012A）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The%20Mind-Transmission-Dharmas-Essential-of-Chan-Master-Duanji-of-Huangbo-Mountain.epub)
-- 月溪法师：《月溪法师讲大乘绝对论》(  )
+- **《月溪法师讲大乘绝对论》** [點擊 香港万佛寺網站 -> 月溪文集 -> 月溪法师讲大乘绝对论(一)] (http://www.10kbuddhas.org/index.do )
 ---
 
 ## 交流讨论
