@@ -38,7 +38,7 @@
 
 #### 其他
 
-- **《禪  不可思議的形而上學的心靈科學 —— 一生成佛之道》** (繁體中文版) [點擊下載EPUB]( https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Metaphysic-Science-of-the-Mind.docx )
+- **《禪  不可思議的形而上學的心靈科學 —— 一生成佛之道》** (繁體中文版) [點擊下載EPUB]( https://github.com/clayfu/Chan-books/blob/main/The-Metaphysic-Science-of-the-Mind.epub )
 
 - 英文版 / 中英双语版(完成后)                                                                                                                                                                                                                                                         ---
 
