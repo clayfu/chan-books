@@ -38,14 +38,13 @@
 
 #### 其他
 
-- 英文版 / 中英双语版(完成后)
+- **《禪  不可思議的形而上學的心靈科學 —— 一生成佛之道》** (繁體中文版) [點擊下載EPUB]( https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Metaphysic-Science-of-the-Mind.docx )
 
----
+- 英文版 / 中英双语版(完成后)                                                                                                                                                                                                                                                         ---
 
 ## 祖师法宝以及…
 
-- **《六祖大师法宝坛经》**（大正新脩大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Platform-Sutra-of-the-Sixth-Patriarch.epub)
-                                         
+- **《六祖大师法宝坛经》**（大正新脩大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Platform-Sutra-of-the-Sixth-Patriarch.epub)                                         
 - **《信心铭》**（CBETA 大正新脩大藏經第48冊 No. 2010）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Faith-Inscription.epub)
 - **《永嘉證道歌》**（CBETA 大正新脩大藏經第48冊 No. 2014）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/Yongjia's-Song-of-Realizing-the-Dao%20.epub)
 - **《黃檗山斷際禪師傳心法要》**（CBETA 大正新脩大藏經第48冊 No. 2012A）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The%20Mind-Transmission-Dharmas-Essential-of-Chan-Master-Duanji-of-Huangbo-Mountain.epub)
