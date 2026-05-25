@@ -15,7 +15,7 @@
 
 ## 站主著作
 
-### 《禅  不可思议的形而上学的心灵科学 —— 一生成佛之道》
+### 《禅  不可思议的形而上学的心灵科学 —— 一生成佛之道》(繁体、简体、英文、双语版)
 
 本书所要传达给读者的最重要讯息是法禅师父所说:「见性成佛是学佛最基本，最重要、也是最终的要求。」「参禅只要有个想见性的念就够了。」「吾人修行之目的，无非是想了脱生死。」「人出生就注定要死亡，人的一生有什么意义呢？不应只是混口饭吃而已，应该有更高的企求才对。...更高的企求就是去解决生死问题。」以及月溪法师所说：「最重要者仍在自证。」所以这其实是一本写给人世间少数有心想要探究宇宙生命存在真相、真正不喜欢死亡的有缘人的禅书。
 
@@ -27,28 +27,25 @@
 
 #### 下载 (Download)
 
-| 格式 | 下载链接 |
-| :--- | :--- |
-| **EPUB** (适合手机/阅读器) | [点击下载](https://raw.githubusercontent.com/clayfu/Chan-books/refs/heads/main/Chan-Science-cs.epub) |
-| **PDF** (适合电脑/打印) | [点击下载](https://raw.githubusercontent.com/clayfu/Chan-books/refs/heads/main/Chan-Science-cs.pdf) |
+-	简体中文: 
+**EPUB电子书** (适合手机/阅读器)  [点击下载](https://raw.githubusercontent.com/clayfu/Chan-books/refs/heads/main/Chan-Science-cs.epub) 
+**PDF电子书** (适合电脑/打印)  [点击下载](https://raw.githubusercontent.com/clayfu/Chan-books/refs/heads/main/Chan-Science-cs.pdf) 
 
+-	繁體中文:
+**EPUB電子書** [點擊下載](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Metaphysic-Science-of-the-Mind.epub)
+
+- 英文版 / 中英双语版: (完成后)
+---
 **下载方法**：
 - **手机**：长按上方对应的下载链接，点击「开启」，选择浏览器或阅读器即可下载。
-- **电脑**：复制上方对应的下载链接，粘贴到浏览器的新网页中打开，文件会自动开始下载。
-
-#### 其他
-
-- **《禪  不可思議的形而上學的心靈科學 —— 一生成佛之道》** (繁體中文版) [點擊下載EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Metaphysic-Science-of-the-Mind.epub)
-
-- 英文版 / 中英双语版(完成后)                                                                                                                                                                                                                                                         ---
-
+- **电脑**：复制上方对应的下载链接，粘贴到浏览器的新网页中打开，文件会自动开始下载。                                                             ---                                                                                                                                      -
 ## 祖师法宝以及…
 
-- **《六祖大师法宝坛经》**（大正新脩大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Platform-Sutra-of-the-Sixth-Patriarch.epub)                                         
-- **《信心铭》**（CBETA 大正新脩大藏經第48冊 No. 2010）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Faith-Inscription.epub)
-- **《永嘉證道歌》**（CBETA 大正新脩大藏經第48冊 No. 2014）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/Yongjia's-Song-of-Realizing-the-Dao%20.epub)
-- **《黃檗山斷際禪師傳心法要》**（CBETA 大正新脩大藏經第48冊 No. 2012A）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The%20Mind-Transmission-Dharmas-Essential-of-Chan-Master-Duanji-of-Huangbo-Mountain.epub)
-- **《月溪法师讲大乘绝对论》** [點擊 香港万佛寺網站 -> 月溪文集 -> 月溪法师讲大乘绝对论(一)] (http://www.10kbuddhas.org/index.do )
+- **《六祖大师法宝坛经》**（CBETA大正新修大藏经第48册 No. 2008，宗宝编）：[点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Platform-Sutra-of-the-Sixth-Patriarch.epub)                                         
+- **《信心铭》**（CBETA 大正新修大藏经第48册 No. 2010）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The-Faith-Inscription.epub)
+- **《永嘉证道歌》**（CBETA 大正新修大藏经第48册 No. 2014）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/Yongjia's-Song-of-Realizing-the-Dao.epub)
+- **《黄檗山断际禅师传心法要》**（CBETA 大正新修大藏经第48册 No. 2012A）: [点击下载EPUB](https://github.com/clayfu/Chan-books/raw/refs/heads/main/The%20Mind-Transmission-Dharmas-Essential-of-Chan-Master-Duanji-of-Huangbo-Mountain.epub)
+- **《月溪法师讲大乘绝对论》** : 请访问 [香港万佛寺网站 -> 月溪文集-> 月溪法师讲大乘绝对论(一)](http://www.10kbuddhas.org/index.do) 阅读或下载。
 ---
 
 ## 交流讨论
@@ -67,7 +64,7 @@
 
 ---
 
-*最後更新：2026年5月*
+*最后更新：2026年5月*
 ```
 
 
